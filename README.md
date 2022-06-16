@@ -1,5 +1,6 @@
 # Software-development-practice
 北京信息科技大学 软工1903 王羽桐 软件开发实践
+
 基于MVC模式，使用Java、Spring Boot、Vue、HTML、Javscript和MySQL协同实现一个小型Java Web应用系统
 
 仅使用商城部分
